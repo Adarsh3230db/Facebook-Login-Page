@@ -1,0 +1,124 @@
+.header{
+    background: #3b5998;
+    height: 85px;
+    width: 100%;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+    
+}
+.login{
+    width: 50%;
+    float: left;
+    
+
+}
+.logo-text{
+    color: white;
+    text-decoration: none;
+    font-size: 42px;
+    font-weight: bold;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 165px;
+}
+.login-label{
+    color: white;
+    font-size: 14px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+
+}
+.login-button{
+    background: #3b5998;
+    color: white;
+    cursor: pointer;
+    
+}
+.login-label2{
+    color:#003566;
+    font-size: 14px;
+    text-decoration: none;
+}
+.login-label2:hover{
+    color: white;
+}
+.login-controls{
+    padding-top: 7px;
+    padding-left: 60px;
+}
+.login-button:hover{
+    background: #003566;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 140px;
+    
+    padding-top: 30px;
+}
+.right-section{
+    width: 40%;
+    float: left;
+    
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height:fill;
+}
+.para{
+    width: 600px;
+    padding-top: 10px;
+    font-size: 21px;
+
+    
+}
+.quote{
+    color: #001d3d;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: ;
+}
+.three{
+    font-size: small;
+    color: black;
+}
+.name{
+    height: 24px;
+    width: 200px;
+}
+.name2{
+    height: 24px;
+    width: 200px;
+    
+}
+.mail{
+    height: 24px;
+    width: 412px;
+    
+}
+.policy{
+    color: gray;
+}
+.sign{
+    background: green;
+    color: white;
+    height: 30px;
+    width: 150px;
+    border-radius: 4px;
+    border-color: grey;
+    cursor: pointer;
+}
+.sign:hover{
+    background-color: darkgreen;
+}
+.newpass{
+    height: 24px;
+    width: 412px;
+}
